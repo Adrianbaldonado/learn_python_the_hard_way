@@ -1,0 +1,13 @@
+"""A Good First Program.
+
+This program prints out a series of print statements to stdout.
+"""
+print("Hello, World!")
+print("Hello Again")
+print("I like typing this.")
+print("This is fun.")
+print("Yay! printing.")
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this')
+
+
