@@ -18,7 +18,6 @@ def my_func(x: int, y: int) -> float:
     A much longer explanation of what this functions does and some other things. But then a good idea to do some
     within the specified characters lines would be now running off the screen.
 
-    #TODO: @epqnjni, need to do XYZ before abc...
 
     :param x: the whatcha_ma_do from the other function.
     :param y: the magical_rabbit variable value from the user.
