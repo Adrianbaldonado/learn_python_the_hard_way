@@ -11,7 +11,7 @@ my_teeth = 'White'
 my_hair = 'Brown'
 
 print("Let's talk about {my_name}.")
-print("He's {my_height} inches tall.")
+print("He's {my_height} inches tall")
 print("He's {my_weight} pounds heavy.")
 print("Actually that's not too heavy.")
 print("He's got {my_eyes} eyes and {my_hair} hair.")

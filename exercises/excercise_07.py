@@ -5,7 +5,7 @@ The purpose of this exercise is to help with more practice with printing"""
 print("Mary had a little lamb.")
 print("Its fleece was white as %s." % 'snow')
 print("And everywhere that Mary went.")
-print("." * 10 ) # what'd that do?
+print("." * 10) # what'd that do?
 
 end1 = "C"
 end2 = "h"
