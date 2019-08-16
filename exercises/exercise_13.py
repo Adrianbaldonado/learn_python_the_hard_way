@@ -1,6 +1,6 @@
 """Parameters, Unpacking, Variables
 
-The purpose of theis exercise is to learn about unpacking and variables
+The purpose of this exercise is to learn about unpacking and variables
 """
 
 from sys import argv
